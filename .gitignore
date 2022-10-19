@@ -235,3 +235,5 @@ slides/
 star_wars/
 .idea/
 *.DS_Store
+Code Tasks/
+/teaching_env/
