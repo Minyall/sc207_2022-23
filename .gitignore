@@ -235,3 +235,4 @@ slides/
 star_wars/
 .idea/
 *.DS_Store
+*.json
