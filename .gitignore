@@ -236,3 +236,5 @@ star_wars/
 .idea/
 *.DS_Store
 *.json
+Code Tasks/
+/teaching_env/
