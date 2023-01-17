@@ -236,3 +236,4 @@ star_wars/
 .idea/
 *.DS_Store
 *.json
+!code_task_datasets/*.csv
