@@ -237,3 +237,5 @@ star_wars/
 *.DS_Store
 *.json
 !code_task_datasets/*.csv
+
+/7_9_API_data/cred.py
